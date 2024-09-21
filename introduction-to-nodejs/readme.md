@@ -5,7 +5,7 @@
 - Advantages
 - Disadvantages
 
-## What is NodeJS?
+## What is NodeJS
 Node.js is a runtime environment that allows developers to execute JavaScript code on the server side, outside of a web browser. It is built on Chrome's V8 JavaScript engine, which makes it fast and efficient for building scalable and high-performance applications. Node.js uses an event-driven, non-blocking I/O model, which makes it well-suited for handling asynchronous operations like reading/writing files, interacting with databases, and managing network requests, without causing performance bottlenecks.
 
 Some key characteristics of Node.js include:
